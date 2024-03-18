@@ -1,2 +1,2 @@
 # Cifar10-with-deeplearning-
-This project implements image classification using deep learning techniques, focusing on the CIFAR-10 dataset. It involves data preprocessing, model training, and evaluation. Key components include:
+this project demonstrates the process of building and training deep learning models for image classification tasks, comparing the performance of a custom model with a transfer learning approach.
